@@ -1,0 +1,7 @@
+
+	"lists"[ {"Name":"BangaloretoChennai","Type":["Car","Jeep","Van"],"Tolls_Name":			 ["ElectronicCity","Attibele","Krishnagiri","Vaniyambadi","Pallikonda","Chennasamudram","Nemili"],"Cost":["25","25","60","75","75","45","45"]}
+		
+]
+
+
+
